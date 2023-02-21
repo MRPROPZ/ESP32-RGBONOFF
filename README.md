@@ -8,7 +8,7 @@
 **GND**: ต่อกับ GND
 
 ## การใช้งาน
-คัดลอกโค้ด ไปใช้งาน
+คัดลอกโค้ด RGB onoff.ino 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
